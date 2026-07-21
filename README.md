@@ -12,7 +12,7 @@ Building meaningful spaces with code.
 - Git
 
 ### 📌 Projects
-Coming Soon...
+Z1 Space (In Progress)
 
 ### 📫 Contact
 - Email : z1.space1024@gmail.com
